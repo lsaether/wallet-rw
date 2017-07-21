@@ -1,5 +1,5 @@
 # wallet-rw
-Rewrite of the Parity Wallet that was itself rewritten after the $31MM hacks.
+Rewrite of the Parity Wallet that was itself rewritten after the [$31MM hacks](https://medium.freecodecamp.org/a-hacker-stole-31m-of-ether-how-it-happened-and-what-it-means-for-ethereum-9e5dc29e33ce).
 The goal is to make the contract more readable and more modular and therefore easier to debug and audit.
 
 # Contracts
